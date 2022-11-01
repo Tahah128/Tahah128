@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahah128
-- 👀 I'm a Mobile Application Developer
-- 🌱 I use Dart & Flutter
+- 👋 Hi, I’m Taha Hassan.
+- 👀 I'm a Mobile Application Developer.
+- 🌱 I use Dart & Flutter.
 - My website www.tahahassan.c1.biz
